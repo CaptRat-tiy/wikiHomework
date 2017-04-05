@@ -1,6 +1,6 @@
 SASS and webpack assignment
 
+This assignment challenged me to use a color scheme (colors: http://www.colourlovers.com/color/7AC2E4/Jenny_Vang)
 
-colors: http://www.colourlovers.com/color/7AC2E4/Jenny_Vang
-
-index.html based (roughly) on http://youngandhungry.co/portfolio
+and a target website (http://youngandhungry.co/portfolio) to practice
+Sass and webpack setups.
